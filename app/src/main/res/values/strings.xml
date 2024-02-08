@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Millionaire</string>
+    <string name="first">Тут будет первый вопрос</string>
+    <string name="knoka">Button</string>
+    <string name="startvalue">0</string>
+    <string name="wintext">YOU WIN! :)</string>
+    <string name="loosetext">YOU LOOSE! :(</string>
+
+</resources>
